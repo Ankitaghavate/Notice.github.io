@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 <h2>**Clone the Repository:**</h2>
   
-git clone https://github.com/Ankitaghavate/Notice.com.git
+git clone https://github.com/Ankitaghavate/Online-Notice-Board.git
 <h2>Navigate to the Project Directory:</h2>
 
 cd online-notice-board
